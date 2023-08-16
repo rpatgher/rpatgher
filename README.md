@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Remy Patgher</h1>
-<h3 align="center">A passionate full stack developer from Mexico</h3>
+<h3 align="center">I'm a full stack developer from Mexico who is passionate about technology and constantly striving to learn more about programming. I enjoy building projects that solve real-world problems and exploring new tools and technologies.</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
