@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Remy Patgher</h1>
 <h3 align="center">I'm a developer from Mexico who is passionate about technology. I enjoy building projects that solve real-world problems and exploring new tools and technologies.</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://remypatgher.com/](https://remypatgher.com/)
 
-- 💬 Ask me about **PHP, SASS and JavaScript**
+- 💬 Ask me about **PHP, SASS, JavaScript, Node.js**
 
 - 📫 How to reach me **remy.agui@gmail.com**
 
