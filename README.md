@@ -124,6 +124,7 @@ AI platform that industrialises SAP consulting through automation and intelligen
 ![GitHub Streak](https://streak-stats.demolab.com?user=rpatgher&theme=dark&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)
  
 </div>
+
 ---
 
 ## 📬 Get in Touch
