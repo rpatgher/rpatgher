@@ -117,11 +117,9 @@ AI platform that industrialises SAP consulting through automation and intelligen
 ## 📈 GitHub Stats
  
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpatgher&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=FFFFFF&cache_seconds=1800&rank_icon=github)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpatgher&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=FFFFFF&cache_seconds=1800&langs_count=8)
- 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rpatgher&theme=dark&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)
+ 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rpatgher&bg_color=0D1117&color=1D9E75&line=1D9E75&point=FFFFFF&hide_border=true)
  
 </div>
 
