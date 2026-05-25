@@ -1,25 +1,142 @@
-<h1 align="center">Hi 👋, I'm Remy Patgher</h1>
-<h3 align="center">I'm a developer from Mexico who is passionate about technology. I enjoy building projects that solve real-world problems and exploring new tools and technologies.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **React**
+# Remy Patgher Aguilar
+### Software Engineer · AI Agents & Automation · Founder @ Codica
 
-- 👨‍💻 All of my projects are available at [https://remypatgher.com/](https://remypatgher.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Remy_Patgher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/remy-patgher-aguilar-233523288)
+[![Website](https://img.shields.io/badge/Website-remypatgher.com-1A5C38?style=for-the-badge&logo=safari&logoColor=white)](https://remypatgher.com)
+[![Email](https://img.shields.io/badge/Email-remypatgher@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:remypatgher@gmail.com)
 
-- 💬 Ask me about **PHP, SASS, JavaScript, Node.js**
+</div>
 
-- 📫 How to reach me **remy.agui@gmail.com**
+---
 
-- 📄 Know about my experiences [https://remypatgher.com/archivos/CV-EN.pdf](https://remypatgher.com/archivos/CV-EN.pdf)
+## 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/remy-patgher-aguilar-233523288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remy patgher aguilar" height="30" width="40" /></a>
-<a href="https://instagram.com/remypatgher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="remypatgher" height="30" width="40" /></a>
-</p>
+I'm a Software Engineer from Mexico City specializing in **AI agents**, **automation**, and **enterprise systems**. I build production-grade software that solves real operational problems — from AI orchestration architectures to cloud-native platforms deployed at scale.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- 🏢 **Software Engineer @ SofOS** — building an AI platform that interprets 1,000+ SAP processes, cutting consulting time by **60%**
+- 🚀 **Founder @ Codica** — software agency serving **15+ clients** across Mexico and Europe
+- 🇨🇭 **Academic Exchange @ OST Switzerland** — Generative AI, Statistical Machine Learning, Foundations of AI
+- 🎓 **B.Eng. Computer Technology Engineering @ Tec de Monterrey** — GPA 93/100 · Graduating Jun 2026
+- 🌍 **Languages:** Spanish (native) · English (B2) · German (B1)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpatgher&show_icons=true&locale=en&layout=compact" alt="rpatgher" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpatgher&show_icons=true&locale=en" alt="rpatgher" /></p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Cloud & Infrastructure**
+
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![AWS EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white)
+![SES](https://img.shields.io/badge/SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**AI & Automation**
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-1A5C38?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-1A5C38?style=flat-square&logoColor=white)
+![Orchestration](https://img.shields.io/badge/Orchestration-1A5C38?style=flat-square&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-1A5C38?style=flat-square&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 HWT — AI Diagnostic & Service Scheduling System
+> Switzerland · Dec 2025
+
+Intelligent assistant that diagnoses technical issues and autonomously schedules service appointments.
+
+- **16 independent microservices** built with Node.js and Python via MCP protocol
+- Integrated with **Odoo** to manage 30+ technicians across 10+ service types
+- Response time reduced to **under 5 minutes** end-to-end
+- `Node.js` `Python` `MCP` `Odoo` `Microservices`
+
+---
+
+### 📊 Nexio360 — 360° Performance Evaluation Platform
+> Codica · 2025
+
+Full-stack SaaS platform for automated 360° employee evaluations with anonymous response collection and AI-powered report generation.
+
+- End-to-end workflow: project creation → participant loading → anonymous collection → **automated report generation**
+- **AWS Step Functions** orchestrate parallel report generation for all employees simultaneously
+- EventBridge + SES pipeline notifies users when reports are ready for download
+- `React` `TypeScript` `NestJS` `MySQL` `AWS (EventBridge, Step Functions, SES)`
+
+---
+
+### 🌐 BlackBull Digital Network — Networking Event Platform
+> Codica · 2024
+
+Enterprise platform for managing professional networking events with intelligent attendee matching.
+
+- **Matching algorithm** surfaces connection opportunities between attendees based on interests and goals
+- Bulk email system via SQS/SES for event communications
+- 1-on-1 meeting scheduling system, reducing event organisation time by **50%**
+- `React` `TypeScript` `MySQL` `AWS Lambda` `SQS` `SES` `Serverless`
+
+---
+
+### 🏢 SofOS — Enterprise SAP Automation Platform
+> SofOS · 2024 – Present
+
+AI platform that industrialises SAP consulting through automation and intelligent knowledge generation.
+
+- AI agent + orchestrator interpreting **1,000+ SAP processes**
+- **C# RPA desktop app** automating manual SAP workflows
+- Consulting time reduced by up to **60%**
+- `SAP CAP` `Node.js` `C#` `RPA` `AI Agents` `Orchestration`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpatgher&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpatgher&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 📬 Get in Touch
+
+I'm always open to interesting projects, collaborations, or just a good tech conversation.
+
+- 💼 [LinkedIn](https://linkedin.com/in/remy-patgher-aguilar-233523288)
+- 🌐 [remypatgher.com](https://remypatgher.com)
+- 📧 remypatgher@gmail.com
+
+---
+
+<div align="center">
+
+*Building software that actually matters.* 🚀
+
+</div>
