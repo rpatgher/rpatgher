@@ -4,7 +4,7 @@
 ### Software Engineer · AI Agents & Automation · Founder @ Codica
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Remy_Patgher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/remy-patgher-aguilar-233523288)
-[![Website](https://img.shields.io/badge/Website-remypatgher.com-1A5C38?style=for-the-badge&logo=safari&logoColor=white)](https://remypatgher.com)
+[![Website](https://img.shields.io/badge/Website-remypatgher.com-1A5C38?style=for-the-badge&logo=safari&logoColor=white)](https://patgher.com)
 [![Email](https://img.shields.io/badge/Email-remypatgher@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:remypatgher@gmail.com)
 
 </div>
