@@ -111,18 +111,19 @@ AI platform that industrialises SAP consulting through automation and intelligen
 - Consulting time reduced by up to **60%**
 - `SAP CAP` `Node.js` `C#` `RPA` `AI Agents` `Orchestration`
 
+
 ---
-
+ 
 ## 📈 GitHub Stats
-
+ 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpatgher&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpatgher&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=FFFFFF)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpatgher&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=FFFFFF&cache_seconds=1800&rank_icon=github)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpatgher&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=FFFFFF&cache_seconds=1800&langs_count=8)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=rpatgher&theme=dark&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)
+ 
 </div>
-
 ---
 
 ## 📬 Get in Touch
@@ -130,7 +131,7 @@ AI platform that industrialises SAP consulting through automation and intelligen
 I'm always open to interesting projects, collaborations, or just a good tech conversation.
 
 - 💼 [LinkedIn](https://linkedin.com/in/remy-patgher-aguilar-233523288)
-- 🌐 [remypatgher.com](https://remypatgher.com)
+- 🌐 [patgher.com](https://patgher.com)
 - 📧 remypatgher@gmail.com
 
 ---
